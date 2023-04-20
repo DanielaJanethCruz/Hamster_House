@@ -41,14 +41,25 @@ Los requerimiwentos fueron planteados por el docente Rodriguez García Anastacio
 |  7  |      Relay      |Es un dispositivo que se utiliza para conectar sensores a otros dispositivos, la función principal del sensor relay es convertir la señal eléctrica del sensor en una señal que pueda ser utilizada por otro dispositivo|![image](https://user-images.githubusercontent.com/115411941/233495184-cf149c5d-5b24-4ca4-9529-93b617a5ba77.png)|    1      |      $75       |
 |  8  |      Servomotor      |Dispositivo electromecánico que convierte una señal de control en un movimiento preciso y controlado de un eje.|![image](https://user-images.githubusercontent.com/115411941/233495253-ba6961b1-a414-48ef-a575-1524250888ca.png)|3|$100|
 |  9  |      Buzzer     |Dispositivo que emite un sonido agudo y fuerte para llamar la atención o para indicar algo.|![image](https://user-images.githubusercontent.com/115411941/233495316-df14d17a-e2a5-4249-addf-6276ffbee478.png)|2|$30|
-### Sensores:
+#### Sensores:
 - Sensor Ky-026
 - Sensor DHT11
 - Sensor Analog Temp
 - Sensor DHT22
-### Actuadores:
+#### Actuadores:
 - 2 Buzzer en uso con alarmas
 - 3 servos
 - 1 Relay on foco
+## Tabla de historias de usuario
+| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
+|----|---------------------|-----------|------------|---------------|-------------|
+|  1  | Realizar detección de Flamas|Alta| 1 dia |Prueba de Fuergo|Daniela|
+|  2  | Detección de Alarmas temperatura y apertura de puerta superior de jaula|Alta|2 horas|Código prueba de Servo, sensores y buzzer|Fernanda|
+|  3  | Conección de Servo 1 y 2 para apertura de la puerta inferior con señales de Sensores|Alta| 2 horas|Codigo prueba de prueba|Ricardo|
+|  4  | Endendido del foco a partir de la señal del Relay|Alta|1/2 dia|Código prueba|Daniela|
+|  5  | Envio de datos a travez de la Rasperry Pi|Alta|3 dias|Prueba de códigos fuente a la Base de Datos|Antonio|
 ## Video:
 [Video Esxplicativo Hamster House]()
+## Resultado Final
+![image](https://user-images.githubusercontent.com/115411941/233499465-27c5dec6-3e29-4ef2-867a-bd5c6829f22c.png)
+
