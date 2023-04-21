@@ -62,4 +62,7 @@ Los requerimiwentos fueron planteados por el docente Rodriguez García Anastacio
 [Video Esxplicativo Hamster House]()
 ## Resultado Final
 ![image](https://user-images.githubusercontent.com/115411941/233499465-27c5dec6-3e29-4ef2-867a-bd5c6829f22c.png)
+## Firma de Profesor Externo:
+[Hamster House.pdf](https://github.com/DanielaJanethCruz/Hamster_House/files/11299163/Hamster.House.pdf)
+
 
